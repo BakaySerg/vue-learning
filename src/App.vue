@@ -1,5 +1,6 @@
 <template>
   <h1>App...</h1>
+  <button @click="w"></button>
 </template>
 
 <style lang="scss">
